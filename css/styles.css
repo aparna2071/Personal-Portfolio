@@ -1,6 +1,18 @@
 body{
     background-color: blue;
 }
-div{
+.main{
+    display: flex;
+    
+}
+.text{
     background-color: pink;
+    width: 50%;
+}
+.profile img {
+    display: flex;
+    text-align: center;
+    border-radius: 50%;
+    width: 100%;
+    padding: 20px;
 }
